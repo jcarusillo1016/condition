@@ -1,0 +1,7 @@
+C:\Users\Joseph\source\repos\ClassProject-Deliverble2_ConditionalStatement\bin\Debug\ClassProject-Deliverble2_ConditionalStatement.exe.config
+C:\Users\Joseph\source\repos\ClassProject-Deliverble2_ConditionalStatement\bin\Debug\ClassProject-Deliverble2_ConditionalStatement.exe
+C:\Users\Joseph\source\repos\ClassProject-Deliverble2_ConditionalStatement\bin\Debug\ClassProject-Deliverble2_ConditionalStatement.pdb
+C:\Users\Joseph\source\repos\ClassProject-Deliverble2_ConditionalStatement\obj\Debug\ClassProject-Deliverble2_ConditionalStatement.csprojAssemblyReference.cache
+C:\Users\Joseph\source\repos\ClassProject-Deliverble2_ConditionalStatement\obj\Debug\ClassProject-Deliverble2_ConditionalStatement.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\ClassProject-Deliverble2_ConditionalStatement\obj\Debug\ClassProject-Deliverble2_ConditionalStatement.exe
+C:\Users\Joseph\source\repos\ClassProject-Deliverble2_ConditionalStatement\obj\Debug\ClassProject-Deliverble2_ConditionalStatement.pdb
